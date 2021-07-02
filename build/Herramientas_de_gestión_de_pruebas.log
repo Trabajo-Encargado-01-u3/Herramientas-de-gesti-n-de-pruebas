@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.7)  1 JUL 2021 20:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.7)  1 JUL 2021 20:21
 entering extended mode
 **"c:/Users/CarlosM/Desktop/Calidad y Pruebas de Software/III UNIDAD/Herramientas de gestión de pruebas/Herramientas_de_gestión_de_pruebas.tex"
 (c:/Users/CarlosM/Desktop/Calidad y Pruebas de Software/III UNIDAD/Herramientas de gestión de pruebas/Herramientas_de_gestión_de_pruebas.tex
@@ -379,36 +379,36 @@ File: ./Imagenes/img5.png Graphic file (type png)
 Package pdftex.def Info: ./Imagenes/img5.png  used on input line 218.
 (pdftex.def)             Requested size: 284.52756pt x 146.90413pt.
 [3 <./Imagenes/img21.png> <./Imagenes/img3.png>] [4 <./Imagenes/img4.png> <./Imagenes/img5.png>] [5]
-Underfull \hbox (badness 1997) in paragraph at lines 265--266
+Underfull \hbox (badness 1997) in paragraph at lines 280--281
 []\OT1/cmr/m/n/10.95 Ros, J. R. (23 de 09 de 2016). Eva-lua-cion de los Fra-me-works en el
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 265--266
+Underfull \hbox (badness 1661) in paragraph at lines 280--281
 \OT1/cmr/m/n/10.95 De-sa-rro-llo de Apli-ca-cio-nes Web con Python. Ob-te-ni-do de re-vis-tas un-la:
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 266--267
+Underfull \hbox (badness 1661) in paragraph at lines 281--282
 \OT1/cmr/m/n/10.95 php ba-sa-dos en el mo-de-lo vis-ta con-tro-la-dor pa-ra el de-sa-rro-llo de soft-
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 267--268
+Underfull \hbox (badness 1661) in paragraph at lines 282--283
 \OT1/cmr/m/n/10.95 php ba-sa-dos en el mo-de-lo vis-ta con-tro-la-dor pa-ra el de-sa-rro-llo de soft-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 []\OT1/cmr/m/n/10.95 https://www.trustradius.com/compare-products/aws-codepipeline-vs-azure-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 []\OT1/cmr/m/n/10.95 https://www.infoworld.com/article/3271126/what-is-cicd-continuous-
  []
 
-[6] (c:/Users\CarlosM\Desktop\Calidad y Pruebas de Software\III UNIDAD\Herramientas de gestión de pruebas\build\Herramientas_de_gestión_de_pruebas.aux
+[7] (c:/Users\CarlosM\Desktop\Calidad y Pruebas de Software\III UNIDAD\Herramientas de gestión de pruebas\build\Herramientas_de_gestión_de_pruebas.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 LaTeX Info: Redefining \. on input line 11.
@@ -427,9 +427,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  68i,6n,74p,571b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\CarlosM\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "c:/Users\CarlosM\Desktop\Calidad y Pruebas de Software\III UNIDAD\Herramientas de gestión de pruebas\build\Herramientas_de_gestión_de_pruebas.pdf" (7 pages, 194380 bytes).
+Output written on "c:/Users\CarlosM\Desktop\Calidad y Pruebas de Software\III UNIDAD\Herramientas de gestión de pruebas\build\Herramientas_de_gestión_de_pruebas.pdf" (8 pages, 196532 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
